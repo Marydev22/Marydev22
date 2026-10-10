@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there 👋, I'm Developer Lover </h1>
+  <h1 align="center">Hi there 👋, I'm Developer </h1>
   <p align="center"> Junior Full-Stack Software Developer</p>
 </div>
 
